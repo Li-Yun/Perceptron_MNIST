@@ -3,3 +3,4 @@ It is a simple digit recognition program that is implemented in Python. The idea
 
 # Usage:
 1. Please download MNIST dataset from this website (https://pjreddie.com/projects/mnist-in-csv/) </br>
+2. run python3 
