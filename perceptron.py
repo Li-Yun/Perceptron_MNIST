@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import sys
 
 class Perceptron:
     def __init__(self, in_train, in_test, lr = 0.01, max_epoch = 30):
@@ -65,9 +64,3 @@ def main():
     
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
