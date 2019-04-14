@@ -3,4 +3,4 @@ It is a simple digit recognition program that is implemented in Python. The idea
 
 # Usage:
 1. Please download MNIST dataset from this website (https://pjreddie.com/projects/mnist-in-csv/) </br>
-2. Run ```python3 perceptron.py``` to have testing accuracy.
+2. Run ```python3 perceptron.py``` to train 10 perceptrons and have testing accuracy.
